@@ -1,0 +1,35 @@
+{
+	"name": "com.cvi.unity_utilities",
+	"version": "0.0.1",
+	"displayName": "Unity Utilities",
+	"description": "A general library with tools / utilities for C# development inside Unity.",
+	"unity": "6000.0",
+	"author": {
+		"name": "Clément Virat",
+		"url": "https://github.com/ClementVirat/unity-utilities-package"
+	},
+	"samples": [
+		{
+			"displayName": "Demo Samples & Prefabs",
+			"description": "Unity demonstration or example assets (for e.g. template scenes) based on the core of the package. \n The purpose of this folder is to illustrate the functionalities of the core package.",
+			"path": "Samples~/Samples & Prefabs"
+		},
+		{
+			"displayName": "TMPro Features / Utilities",
+			"description": "Custom scripts based on TextMeshPro with useful functionalities for UI-related fonctions based on the IMXNAV-EventSystem. \n Make sure that TextMeshPro (Unity-Registry) is properly installed before.",
+			"path": "Samples~/TMPro Utilities"
+		},
+		{
+			"displayName": "Editor Features / Utilities",
+			"description": "Custom Editor Scripts. No further package needed.",
+			"path": "Samples~/Editor"
+		},
+		{
+			"displayName": "Camera Navigation Assets",
+			"description": "This folder contains Camera-Navigation-Prefabs. \n Make sure that following Unity Package is properly installed: \n Cinemachine (Unity Registry).",
+			"path": "Samples~/Camera Navigation Assets"
+		}
+	],
+	"documentationUrl": "https://github.com/ClementVirat/unity-utilities-package"
+}
+
